@@ -1,0 +1,99 @@
+.w{
+
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: 
+}
+.header{
+	height: 42px;
+}
+.logo{
+	float: left;
+}
+.nav{
+	float: left;
+}
+.nav ul li{
+	float: left;
+	margin: 0 15px;
+}
+.nav ul li a{
+	color: #050505;
+	font-size: 20px;
+}
+.nav ul li a:hover{
+border-bottom: 2px solid skyblue;
+color: skyblue;
+}
+.search{
+	float: left;
+	width: 500px;
+	height:50px;
+	margin-left: 70px;
+}
+.search input{
+	float:left;
+	width: 400px;
+	height: 45px;
+	border:2px solid skyblue; 
+}
+.user{
+	float: right;
+	margin-right: 30px;
+	font-size: 14px;
+}
+.banner{
+	height: 420px;
+	background-color: #1c036c
+}
+.banner .w{
+	height: 420px;
+	background: url(./images/banner2.png)no-repeat top;
+}
+.subnav{
+	float: left;
+	width: 190px;
+	height: 420px;
+	background-color: #14024b;
+}
+.subnav ul li{
+	height: 45px;
+	line-height: 45px;
+	padding-top: 0 20px;
+}
+.subnav ul li:hover{
+	background-color: yellowgreen;
+}
+.subnav ul li a{
+	color: #fff;
+	font-size: 14px;
+}
+.course{
+	float: right;
+	width: 230px;
+	height: 300px;
+	background-color: #fff;
+	margin-top: 50px;
+}
+.course h2{
+	text-align: center;
+	color: #f3f9fc;
+	background-color: skyblue;
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+}
+.bd ul li{
+	border-bottom:2px solid #ccc;
+}
+.bd ul li h4{
+	font-size: 16px;
+	color: 
+}
+.bd ul li p{
+	font-size: 12px;
+	color: 
+}
